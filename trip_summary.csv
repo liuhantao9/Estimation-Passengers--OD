@@ -1,0 +1,10 @@
+tid,tdate,route,busnumber,routeid,obatripid,initpsg,sensorid,series,direction
+2,3/6/18 0:00,372,2660,1_100214,,0,bus_m1,44, University District Lake City
+3,3/6/18 0:00,372,2662,1_100214,,0,bus_m1,43, UW Bothell/Cascadia College Kenmore
+4,3/1/18 0:00,372,6866,1_100214,,0,bus_m1,37, University District Lake City
+7,11/4/18,67,,,,,,,Northgate TC
+8,11/4/18,32,,,,,,,University District Fremont 
+9,11/8/18,67,,,,,,,Northgate TC
+10,11/8/18,67,,,,,,,District Roosevelt
+12,11/9/18,32,,,,,,,University District Fremont 
+13,11/9/18,32,,,,,,,Seattle Center Fremont 
